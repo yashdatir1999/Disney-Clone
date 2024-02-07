@@ -1,5 +1,6 @@
 # Disney-plus-Clone
-Experience the magic with my Disney Clone built using React.js (Vite) and powered by the Free Movie Database API. 
-This responsive web app brings the enchantment of Disney to your screen, offering a delightful and immersive experience. 
-Explore your favorite movies, characters, and more in this engaging and user-friendly project.
+Explore the magic of Disney with this responsive movie app! Utilizing the Free Movie Database API,
+enjoy a vast collection of Disney movies. Built with React.js and Vite, 
+enhanced with Tailwind CSS for a visually appealing experience. 
+Check it out and relive the enchantment! 
 [Click Here](https://disney-clone-yash.vercel.app/)
