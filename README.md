@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Disney-plus-Clone
+Experience the magic with my Disney Clone built using React.js (Vite) and powered by the Free Movie Database API. 
+This responsive web app brings the enchantment of Disney to your screen, offering a delightful and immersive experience. 
+Explore your favorite movies, characters, and more in this engaging and user-friendly project.
+[Click Here](https://disney-clone-yash.vercel.app/)
